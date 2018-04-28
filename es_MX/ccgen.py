@@ -9,7 +9,17 @@ from random import randint
 version = "1.0.1"
 
 #help arg
-def usage():
+echo -e "\033[0;35m---------------------------------------------------------\033[0m"
+echo -e "\033[1;33m                   STUDIO HOWEN \033[0m"
+echo -e "\033[1;36m                  INSTALACION TERMINADA \033[1;36m"
+echo -e "\033[0;35m---------------------------------------------------------\033[0m"
+figlet ....HOWEN....
+echo -e "\033[0;35m---------------------------------------------------------\033[0m"
+echo -e "\033[1;33m                       DIGITE [ MENU ] \033[0m"
+echo -e "\033[1;36m                    PARA VER COMANDOS \033[1;36m"
+echo -e "\033[1;36m       	    CREADO POR HOWEN FLORES \033[1;36m"
+echo -e "\033[0;35m---------------------------------------------------------\033[0m"
+ uso  de  la  definición ():
     print("ccgen.py version:{}".format(version))
     print("")
     print("Uso:")
